@@ -1,4 +1,4 @@
-# Health_Monitoring_-_Analysis
+# Health_Monitoring_&_Analysis
 This repository explores health data from a dataset of 500 individuals. We'll analyze various health metrics like age, gender, heart rate, blood pressure, respiratory rate, body temperature, and oxygen saturation, recorded over a specific period.
 ## Introduction
 
