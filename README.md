@@ -19,7 +19,7 @@ The project involves the following key tasks:
 * **Seaborn:** Used for enhancing the aesthetics of visualizations and creating statistical plots.
 * **NumPy:** Employed for mathematical operations and array manipulation.
 
-## [Dataset](https://statso.io/healthcare-analysis-case-study/)
+## Dataset Description
 
 The dataset contains the following columns:
 
